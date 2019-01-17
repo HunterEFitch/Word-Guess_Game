@@ -1,0 +1,13 @@
+
+#main-header h1 {
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding: 30px;
+}
+
+#underscore {
+    font-size: 70px;
+}
